@@ -1,4 +1,15 @@
-## Hi there 👋
+# Apie mane
+Sveiki! Aš esu [Nerijus Kisieliauskas](https://github.com/NerkaKiss).
+
+## Pomėgiai
+- Programavimas
+- Kokybės užtikrinimas
+- Video žaidimai
+
+## Kontaktai
+- [GitHub](https://github.com/NerkaKiss)
+- [LinkedIn](https://www.linkedin.com/in/nerijus-kisieliauskas-8288ab263/)
+
 
 <!--
 **NerkaKiss/NerkaKiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
