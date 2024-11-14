@@ -8,7 +8,6 @@ Sveiki! Aš esu [Nerijus Kisieliauskas](https://github.com/NerkaKiss).
 
 ## Kontaktai
 - [GitHub](https://github.com/NerkaKiss)
-- [![GitHub Logotipas](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)](https://github.com/NerkaKiss)
 - [LinkedIn](https://www.linkedin.com/in/nerijus-kisieliauskas-8288ab263/)
 
 
